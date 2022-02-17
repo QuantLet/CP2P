@@ -3,8 +3,7 @@ Name of Quantlet: 'CP2P_smoothfit'
 Published in: 'Crypto-Backed Peer-to-Peer Lending'
 
 Description: 'Solution to the attempt of finding an optimal exercise strategy for a CP2P contract based on Aave's lending pool mechanism. 
-		Plotting the function shows, that there is no root and therefore no optimal exercise strategy, if continuous price paths
-		are considered.'
+Plotting the function shows, that there is no root and therefore no optimal exercise strategy, if continuous price paths are considered.'
 
 Keywords: 'CP2P, P2P Lending, American Options, Smooth-Fit, Variational Inequalities, HJB'
 
