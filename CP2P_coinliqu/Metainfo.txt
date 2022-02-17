@@ -3,7 +3,7 @@ Name of Quantlet: 'CP2P_coinliqu'
 Published in: 'Crypto-Backed Peer-to-Peer Lending'
 
 Description: 'Illustration of Aave's coin liquidation mechanism based on a fictional CP2P contract and historical ETH prices.
-		It is assumed that the fictional borrower does not take action to avoid liquidations.'
+It is assumed that the fictional borrower does not take action to avoid liquidations.'
 
 Keywords: 'CP2P, coin liquidation, P2P Lending'
 
