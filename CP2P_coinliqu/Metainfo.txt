@@ -1,0 +1,25 @@
+Name of Quantlet: 'CP2P_coinliqu'
+
+Published in: 'Crypto-Backed Peer-to-Peer Lending'
+
+<<<<<<< HEAD
+Description: 'Illustration of Aave´s coin liquidation mechanism based on a theoretical CP2P contract for June 2021 and historical ETH prices.
+=======
+Description: 'Illustration of Aave's coin liquidation mechanism based on a fictional CP2P contract and historical ETH prices.
+>>>>>>> 16ec8d7e460b21c6a4010b37a65f79480d70fc84
+It is assumed that the fictional borrower does not take action to avoid liquidations.'
+
+Keywords: 'CP2P, coin liquidation, P2P Lending, Aave v1, collateralized loan'
+
+Author: 'Ramona Merkl'
+
+See also: 'DEDA_2020SS_Crypto_P2P_Lending'
+
+Submitted:  'February 2022'
+<<<<<<< HEAD
+
+Datafile: 'price_sub_date.csv'
+
+Input: 'Subset of the Aave v1 price dataset. It involves about 1 year of ETH and other prices.'
+=======
+>>>>>>> 16ec8d7e460b21c6a4010b37a65f79480d70fc84
