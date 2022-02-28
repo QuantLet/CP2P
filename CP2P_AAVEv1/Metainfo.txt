@@ -12,10 +12,6 @@ See also: 'DEDA_2020SS_Crypto_P2P_Lending'
 
 Submitted:  'February 2022'
 
-<<<<<<< HEAD
 Datafile: 'Borrow.csv, Deposit.csv, LiquidationCall.csv, RedeemUnderlying.csv, Repay.csv, V1_price.csv'
 
 Input: 'The Data is stored in AAVE_V1. Due to the large size, it is uploaded as a .zip file and must be unpacked before usage.'
-=======
-Datafile: 'The Data is stored in AAVE_V1. Due to the large size, it is uploaded as a .zip file and must be unpacked before usage.'
->>>>>>> 16ec8d7e460b21c6a4010b37a65f79480d70fc84
